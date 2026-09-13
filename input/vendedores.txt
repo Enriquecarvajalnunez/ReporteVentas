@@ -1,0 +1,10 @@
+CE;1958620;Miguel Alejandra;Sánchez Díaz
+TI;99104243;Ricardo Antonio;García Vega
+CE;3143467;Carlos Valentina;López Salazar
+CE;3807369;Sara Carolina;Sánchez Gómez
+TI;17618485;Lucía Antonio;Hernández Mendoza
+TI;80214562;José Sebastián;Martínez Silva
+CE;6302205;Patricia Alejandra;Morales Vega
+TI;32132068;Luis Ignacio;Flores Silva
+PA;394796488;Carlos Alejandro;Flores Salazar
+CE;1255824;Andrés Sebastián;Hernández Salazar
